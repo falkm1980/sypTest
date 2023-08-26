@@ -1,2 +1,4 @@
-print ("Hallo Welt3")
+print ("Hallo Welt4 neu")
 
+def Test():
+    pass
